@@ -1,0 +1,6 @@
+python-telegram-bot>=20.0
+pymongo>=4.0
+certifi
+qrcode
+requests
+Pillow
